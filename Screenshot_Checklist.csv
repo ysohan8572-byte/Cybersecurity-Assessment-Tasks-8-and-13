@@ -1,0 +1,11 @@
+Evidence ID,Task,Screenshot / evidence,Status
+T8-01,Task 8,winver host/version dialog,To capture on your Windows PC
+T8-02,Task 8,SystemPropertiesRemote: current RDP/NLA state,To capture on your Windows PC
+T8-03,Task 8,Windows Defender Firewall with Advanced Security overview,To capture on your Windows PC
+T8-04,Task 8,Selected inbound firewall rule details,To capture on your Windows PC
+T8-05,Task 8,Windows Update status,To capture on your Windows PC
+T8-06,Task 8,net localgroup Administrators output (redact names),To capture on your Windows PC
+T8-07,Task 8,Event Viewer Security log (if accessible),Optional / permissions may vary
+T13-01,Task 13,Python tool successful run with threshold 3,Reproducible local run
+T13-02,Task 13,Threshold 4 negative test,To capture on your Windows PC
+T13-03,Task 13,Threshold 0 validation error,To capture on your Windows PC
